@@ -1,10 +1,12 @@
-Hyperparameter : what is making difference instance of the same algorigth behave differentyl ? 
+###
+
+Hyperparameter : what is making difference instance of the same algorigth behave differentyl ?
 
 Variation at model level is different from variation of at Algorigthm level...
 
 K nearest neibhour regression : 1 neighbour or 2 neighbour.... Algoright is varying due to external variant..
 
-Hyperparameter tuning : Set of algorightms of trying out... 
+Hyperparameter tuning : Set of algorightms of trying out...
 
 For Classification and Accuracy..
 For Classification and Mean square..
@@ -26,6 +28,3 @@ https://archive.ics.uci.edu/ml/index.php
 https://www.hackerrank.com/
 
 https://in.udacity.com/nanodegree
-
-
-
