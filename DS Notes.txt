@@ -1,0 +1,31 @@
+Hyperparameter : what is making difference instance of the same algorigth behave differentyl ? 
+
+Variation at model level is different from variation of at Algorigthm level...
+
+K nearest neibhour regression : 1 neighbour or 2 neighbour.... Algoright is varying due to external variant..
+
+Hyperparameter tuning : Set of algorightms of trying out... 
+
+For Classification and Accuracy..
+For Classification and Mean square..
+
+
+K Means clustering.... Algorighth.. what is k ? K = Number of clustering...
+
+Each cluster would have center point - called as centroild..
+Every centroild is nearest to the cluster....
+
+Start with random 3 centroids.. For all the points.. Which is nearest centroid..and make it clusters...
+Now.. Once the random cluster is ready.. Find the centroid of the of the cluster..
+and go through these multiple iterations until no points are moved to each other...
+
+K Means ++ initilization to be done...
+
+https://archive.ics.uci.edu/ml/index.php
+
+https://www.hackerrank.com/
+
+https://in.udacity.com/nanodegree
+
+
+
